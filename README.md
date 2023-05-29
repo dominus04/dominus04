@@ -57,11 +57,7 @@ Gostaria de alertar que ainda sou um desenvolvedor em treinamento, logo não ten
  ![Snake animation](https://github.com/vinicmendes/vinicmendes/blob/output/github-contribution-grid-snake.svg)
  
 
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/dominus04/dominus04/blob/output/github-contribution-grid-snake.svg" />
-</picture>
+
   
 
 
