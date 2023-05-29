@@ -3,7 +3,8 @@
 ![](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)
 
 <br>
-
+<span>
+ <div>
 - :boy: Meu nome é Igor Melo e estou no caminho de me tornar um Full Stack Developer, tenho atualmente 24 anos e moro no Brasil. Estou em contato com o mundo da programação desde os meus 14 anos, porém apenas nos últimos anos que resolvi entrar de cabeça nesse mundo e tenho adquirido conhecimentos todos os dias.
 
 - :school: Atualmente estou cursando Bacharelado em ciência da computação no centro universitário UNA, cheguei a iniciar o mesmo curso em 2018 na Universidade Federal de Viçosa - Florestal, porém acabei optando por encerrar, para que fosse possível voltar a trabalhar.
@@ -11,6 +12,9 @@
 - :office: Sou projetista mecânico na Indusbras Automação Industrial, e atuo no desenvolvimento de maquinário voltado ao setor automotivo, atuo também na programação de PLCs para garantir o funcionamento adequado dos dispositivos.
 
 - :zap: Atualmente meu principal hobbie tem sido a leitura, sou apaixonado por livros de auto ajuda, gestão, ficção e aventura.
+ </div>
+</span>
+  
 <br>
 
 <hr>
@@ -51,7 +55,7 @@ Gostaria de alertar que ainda sou um desenvolvedor em treinamento, logo não ten
 <br>
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/dominus04">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominus04&layout=compact&langs_count=7&theme=transparent"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dominus04&show_icons=true&theme=transparent&count_private=true"/>
 </div>
