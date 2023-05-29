@@ -11,7 +11,8 @@
 - :zap: Atualmente meu principal hobbie tem sido a leitura, sou apaixonado por livros de auto ajuda, gestão, ficção e aventura.
 <br>
  
-<iframe src="https://gifer.com/embed/Bm7L" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+![gif](https://gifer.com/embed/Bm7L")
+ 
 </div>
 
 <hr>
