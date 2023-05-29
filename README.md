@@ -1,7 +1,9 @@
 ### :man: Olá, sejam bem vindos ao meu perfil
 
+![](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)
+
 <br>
-<div>
+
 - :boy: Meu nome é Igor Melo e estou no caminho de me tornar um Full Stack Developer, tenho atualmente 24 anos e moro no Brasil. Estou em contato com o mundo da programação desde os meus 14 anos, porém apenas nos últimos anos que resolvi entrar de cabeça nesse mundo e tenho adquirido conhecimentos todos os dias.
 
 - :school: Atualmente estou cursando Bacharelado em ciência da computação no centro universitário UNA, cheguei a iniciar o mesmo curso em 2018 na Universidade Federal de Viçosa - Florestal, porém acabei optando por encerrar, para que fosse possível voltar a trabalhar.
@@ -10,10 +12,6 @@
 
 - :zap: Atualmente meu principal hobbie tem sido a leitura, sou apaixonado por livros de auto ajuda, gestão, ficção e aventura.
 <br>
- 
-![gif](https://gifer.com/embed/Bm7L")
- 
-</div>
 
 <hr>
 
