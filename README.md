@@ -14,7 +14,9 @@
  
 </div>
  <div>
+  
   ![](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)
+  
  </div>
 </span>
   
