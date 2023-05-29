@@ -2,7 +2,6 @@
 
 <br>
 <span>
-<div>
  
 - :boy: Meu nome é Igor Melo e estou no caminho de me tornar um Full Stack Developer, tenho atualmente 24 anos e moro no Brasil. Estou em contato com o mundo da programação desde os meus 14 anos, porém apenas nos últimos anos que resolvi entrar de cabeça nesse mundo e tenho adquirido conhecimentos todos os dias.
 
@@ -12,12 +11,11 @@
 
 - :zap: Atualmente meu principal hobbie tem sido a leitura, sou apaixonado por livros de auto ajuda, gestão, ficção e aventura.
  
-</div>
- <div>
+</span>
+ <span>
   
   ![](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)
   
- </div>
 </span>
   
 <br>
