@@ -53,7 +53,7 @@ Gostaria de alertar que ainda sou um desenvolvedor em treinamento, logo não ten
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dominus04&show_icons=true&theme=transparent&count_private=true"/>
 </div>
  
-  
+ 
 ![Snake animation](https://github.com/dominus04/dominus04/blob/output/github-contribution-grid-snake.svg)
 
   
