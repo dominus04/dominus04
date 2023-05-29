@@ -50,8 +50,8 @@ Gostaria de alertar que ainda sou um desenvolvedor em treinamento, logo não ten
 
 <div>
 <a href="https://github.com/dominus04">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominus04&layout=compact&langs_count=7&theme=transparent"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dominus04&show_icons=true&theme=transparent&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominus04&layout=compact&langs_count=7&theme=transparent"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=dominus04&show_icons=true&theme=transparent&count_private=true"/>
 </div>
  
  
