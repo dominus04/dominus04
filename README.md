@@ -1,7 +1,8 @@
 ### :man: Olá, sejam bem vindos ao meu perfil
 
+![](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)
+
 <br>
-<span>
  
 - :boy: Meu nome é Igor Melo e estou no caminho de me tornar um Full Stack Developer, tenho atualmente 24 anos e moro no Brasil. Estou em contato com o mundo da programação desde os meus 14 anos, porém apenas nos últimos anos que resolvi entrar de cabeça nesse mundo e tenho adquirido conhecimentos todos os dias.
 
@@ -10,13 +11,6 @@
 - :office: Sou projetista mecânico na Indusbras Automação Industrial, e atuo no desenvolvimento de maquinário voltado ao setor automotivo, atuo também na programação de PLCs para garantir o funcionamento adequado dos dispositivos.
 
 - :zap: Atualmente meu principal hobbie tem sido a leitura, sou apaixonado por livros de auto ajuda, gestão, ficção e aventura.
- 
-</span>
- <span>
-  
-  ![](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)
-  
-</span>
   
 <br>
 
