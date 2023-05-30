@@ -1,13 +1,27 @@
-### :man: Olá, sejam bem vindos ao meu perfil
+### :man: Olá, sejam bem vindos ao meu perfil / Hello, be welcome to my profile!
 
  
 - :boy: Meu nome é Igor Melo e estou no caminho de me tornar um Full Stack Developer, tenho atualmente 24 anos e moro no Brasil. Estou em contato com o mundo da programação desde os meus 14 anos, porém apenas nos últimos anos que resolvi entrar de cabeça nesse mundo e tenho adquirido conhecimentos todos os dias.
 
+- :boy: My name is Igor Melo and I'm on the path to becoming a Full Stack Developer, I'm currently 24 years old and I live in Brazil. I've been in contact with the world of programming since I was 14 years old, but only in the last 4 years I decided to dive into this world and learn something every day.
+
+<br>
+
 - :school: Atualmente estou cursando Bacharelado em ciência da computação no centro universitário UNA, cheguei a iniciar o mesmo curso em 2018 na Universidade Federal de Viçosa - Florestal, porém acabei optando por encerrar, para que fosse possível voltar a trabalhar.
 
-- :office: Sou projetista mecânico na Indusbras Automação Industrial, e atuo no desenvolvimento de maquinário voltado ao setor automotivo, atuo também na programação de PLCs para garantir o funcionamento adequado dos dispositivos.
+- :school: I'm currently studying a bachelor's degree in computer science at the Una university, I started taking the same course in 2018 at the Federal University of Viçosa - Campus Florestal, but I chose to give up to work.
+
+<br>
+
+- :office: Sou projetista mecânico na Indusbras Automação Industrial e atuo no desenvolvimento de maquinário voltado ao setor automotivo, atuo também na programação de PLCs para garantir o funcionamento adequado dos dispositivos.
+
+- :office: I'm a mechanical designer at Indusbras Automação Industrial where I work developing machines for the automotive industry, I also work with PLC programming, using ladder language.
+
+<br>
 
 - :zap: Atualmente meu principal hobbie tem sido a leitura, sou apaixonado por livros de auto ajuda, gestão, ficção e aventura.
+
+- :zap: Currently my main hobby is reading books, I love to read self-care, management, fiction and adventure books.
   
 <br>
 
@@ -28,6 +42,8 @@
 <br>
 
 Gostaria de alertar que ainda sou um desenvolvedor em treinamento, logo não tenho completo domínio das tecnologias citadas abaixo, possuo conhecimento básico em todas elas e conhecimentos avançados em algumas.
+
+I would like to point out that I am a trainee developer, so I do not have complete mastery of the above technologies, I have basic knowledge in all of them and advanced in some.
 
 <br>
 
