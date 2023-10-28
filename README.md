@@ -19,9 +19,9 @@
 
 <br>
 
-- :zap: Atualmente meu principal hobbie tem sido a leitura, sou apaixonado por livros de auto ajuda, gestão, ficção e aventura.
+- :zap: Atualmente meu principal hobbie tem sido a leitura, sou apaixonado por livros de gestão, ficção e aventura.
 
-- :zap: Currently my main hobby is reading books, I love to read self-care, management, fiction and adventure books.
+- :zap: Currently my main hobby is reading books, I love to read management, fiction and adventure books.
   
 <br>
 
