@@ -66,11 +66,10 @@ I would like to point out that I am a trainee developer, so I do not have comple
 
 <br>
 
-<div>
-<a href="https://github.com/dominus04">
- ![Stats](./profile/top-langs.svg)
- ![Stats](./profile/stats.svg)
-</div>
+
+![Stats](./profile/top-langs.svg)
+![Stats](./profile/stats.svg)
+
  
  
 <picture>
