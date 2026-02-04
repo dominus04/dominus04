@@ -66,7 +66,6 @@ I would like to point out that I am a trainee developer, so I do not have comple
 
 <br>
 
-
 ![Stats](./profile/top-langs.svg)
 ![Stats](./profile/stats.svg)
 
