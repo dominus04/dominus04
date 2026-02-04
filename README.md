@@ -68,8 +68,8 @@ I would like to point out that I am a trainee developer, so I do not have comple
 
 <div>
 <a href="https://github.com/dominus04">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominus04&layout=compact&langs_count=7&theme=transparent"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=dominus04&show_icons=true&theme=transparent&count_private=true"/>
+ ![Stats](./profile/top-langs.svg)
+ ![Stats](./profile/stats.svg)
 </div>
  
  
