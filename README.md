@@ -1,4 +1,4 @@
-### :man: Olá, sejam bem vindos ao meu perfil / Hello, be welcome to my profile!
+8### :man: Olá, sejam bem vindos ao meu perfil / Hello, be welcome to my profile!
 
  
 - :boy: Meu nome é Igor Melo e estou no caminho de me tornar um Full Stack Developer, tenho atualmente 24 anos e moro no Brasil. Estou em contato com o mundo da programação desde os meus 14 anos, porém apenas nos últimos anos que resolvi entrar de cabeça nesse mundo e tenho adquirido conhecimentos todos os dias.
@@ -31,7 +31,7 @@
 <br>
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5531973329402&text=Ol%C3%A1,%20Igor%20vim%20pelo%20GitHub.)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/igor.dominus04/)
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/igor.dominus04/) -->
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-melo-a1453b117/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/igorctmdt)
 <br>
@@ -58,7 +58,6 @@ I would like to point out that I am a trainee developer, so I do not have comple
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
