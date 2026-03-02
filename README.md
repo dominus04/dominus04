@@ -1,9 +1,9 @@
 ### :man: Olá, sejam bem vindos ao meu perfil / Hello, be welcome to my profile!
 
  
-- :boy: Meu nome é Igor Melo e estou no caminho de me tornar um Full Stack Developer, tenho atualmente 24 anos e moro no Brasil. Estou em contato com o mundo da programação desde os meus 14 anos, porém apenas nos últimos anos que resolvi entrar de cabeça nesse mundo e tenho adquirido conhecimentos todos os dias.
+- :boy: Meu nome é Igor Melo e estou no caminho de me tornar um Full Stack Developer, tenho atualmente 27 anos e moro no Brasil. Estou em contato com o mundo da programação desde os meus 14 anos, porém apenas nos últimos anos que resolvi entrar de cabeça nesse mundo e tenho adquirido conhecimentos todos os dias.
 
-- :boy: My name is Igor Melo and I'm on the path to becoming a Full Stack Developer, I'm currently 24 years old and I live in Brazil. I've been in contact with the world of programming since I was 14 years old, but only in the last 4 years I decided to dive into this world and learn something every day.
+- :boy: My name is Igor Melo and I'm on the path to becoming a Full Stack Developer, I'm currently 27 years old and I live in Brazil. I've been in contact with the world of programming since I was 14 years old, but only in the last 4 years I decided to dive into this world and learn something every day.
 
 <br>
 
